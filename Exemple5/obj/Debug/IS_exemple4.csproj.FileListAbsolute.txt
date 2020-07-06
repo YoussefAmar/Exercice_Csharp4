@@ -1,0 +1,2 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\obj\Debug\IS_exemple4.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\obj\Debug\IS_exemple4.csproj.CoreCompileInputs.cache

@@ -1,0 +1,37 @@
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\EnClasse-POO\TestsEquals\TestsEquals\obj\Debug\TestsEquals.csprojResolveAssemblyReference.cache
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\EnClasse-POO\TestsEquals\TestsEquals\bin\Debug\TestsEquals.exe.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\EnClasse-POO\TestsEquals\TestsEquals\bin\Debug\TestsEquals.exe
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\EnClasse-POO\TestsEquals\TestsEquals\bin\Debug\TestsEquals.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\EnClasse-POO\TestsEquals\TestsEquals\obj\Debug\TestsEquals.exe
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\EnClasse-POO\TestsEquals\TestsEquals\obj\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Cours-Exemples\chap14 - TestsEquals\TestsEquals\bin\Debug\TestsEquals.exe.config
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Cours-Exemples\chap14 - TestsEquals\TestsEquals\bin\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Cours-Exemples\chap14 - TestsEquals\TestsEquals\bin\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Cours-Exemples\chap14 - TestsEquals\TestsEquals\obj\Debug\TestsEquals.csprojResolveAssemblyReference.cache
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Cours-Exemples\chap14 - TestsEquals\TestsEquals\obj\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Cours-Exemples\chap14 - TestsEquals\TestsEquals\obj\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - TestsEquals\TestsEquals\bin\Debug\TestsEquals.exe.config
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - TestsEquals\TestsEquals\bin\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - TestsEquals\TestsEquals\bin\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - TestsEquals\TestsEquals\obj\Debug\TestsEquals.csprojResolveAssemblyReference.cache
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - TestsEquals\TestsEquals\obj\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - TestsEquals\TestsEquals\obj\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - Clonage\TestsEquals\obj\Debug\TestsEquals.csprojResolveAssemblyReference.cache
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - Clonage\TestsEquals\obj\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - Clonage\TestsEquals\obj\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - Clonage\TestsEquals\bin\Debug\TestsEquals.exe.config
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - Clonage\TestsEquals\bin\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\NouveauCours-POO\Séances\Séance7\AuCours\chap14 - Clonage\TestsEquals\bin\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-NouveauCours-POO\Séances\Séance7\AuCours\7.3.chap14 - Clonage\TestsEquals\bin\Debug\TestsEquals.exe.config
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-NouveauCours-POO\Séances\Séance7\AuCours\7.3.chap14 - Clonage\TestsEquals\bin\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-NouveauCours-POO\Séances\Séance7\AuCours\7.3.chap14 - Clonage\TestsEquals\bin\Debug\TestsEquals.pdb
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-NouveauCours-POO\Séances\Séance7\AuCours\7.3.chap14 - Clonage\TestsEquals\obj\Debug\TestsEquals.csprojResolveAssemblyReference.cache
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-NouveauCours-POO\Séances\Séance7\AuCours\7.3.chap14 - Clonage\TestsEquals\obj\Debug\TestsEquals.exe
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-NouveauCours-POO\Séances\Séance7\AuCours\7.3.chap14 - Clonage\TestsEquals\obj\Debug\TestsEquals.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\bin\Debug\TestsEquals.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\bin\Debug\TestsEquals.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\bin\Debug\TestsEquals.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\obj\Debug\TestsEquals.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\obj\Debug\TestsEquals.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\obj\Debug\TestsEquals.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\IS_Exemple7_Clonage\TestsEquals\obj\Debug\TestsEquals.pdb

@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\bin\Debug\IS_exemple4.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\bin\Debug\IS_exemple4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\bin\Debug\IS_exemple4.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\obj\Debug\exemple5.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\obj\Debug\exemple5.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\obj\Debug\IS_exemple4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple5\obj\Debug\IS_exemple4.pdb

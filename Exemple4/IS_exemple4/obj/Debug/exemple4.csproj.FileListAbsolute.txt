@@ -1,0 +1,6 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\obj\Debug\exemple4.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\bin\Debug\IS_exemple4.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\bin\Debug\IS_exemple4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\bin\Debug\IS_exemple4.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\obj\Debug\IS_exemple4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple4\IS_exemple4\obj\Debug\IS_exemple4.pdb
